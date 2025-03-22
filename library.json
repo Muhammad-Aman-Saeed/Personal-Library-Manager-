@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Introduction to Physical Metallurgy",
+        "author": "Sidney H. Avner",
+        "year": 1997,
+        "genre": "Metallurgy",
+        "read_status": true
+    },
+    {
+        "title": "Principles of Materials Science and Engineering",
+        "author": "William F. Smith",
+        "year": 2006,
+        "genre": "Materials Science",
+        "read_status": false
+    },
+    {
+        "title": "Mechanical Behavior of Materials",
+        "author": "Norman E. Dowling",
+        "year": 2012,
+        "genre": "Metallurgy",
+        "read_status": false
+    },
+    {
+        "title": "The Science and Engineering of Materials",
+        "author": "Donald R. Askeland",
+        "year": 2015,
+        "genre": "Metallurgical Engineering",
+        "read_status": true
+    },
+    {
+        "title": "Physical Metallurgy Principles",
+        "author": "Robert E. Reed-Hill",
+        "year": 2008,
+        "genre": "Physical Metallurgy",
+        "read_status": false
+    },
+    {
+        "title": "Metallurgy for Engineers",
+        "author": "E. C. Rollason",
+        "year": 2005,
+        "genre": "Metallurgy",
+        "read_status": true
+    },
+    {
+        "title": "Extractive Metallurgy of Copper",
+        "author": "A. K. Biswas",
+        "year": 2014,
+        "genre": "Extractive Metallurgy",
+        "read_status": false
+    },
+    {
+        "title": "Fundamentals of Powder Metallurgy",
+        "author": "Randall M. German",
+        "year": 2010,
+        "genre": "Powder Metallurgy",
+        "read_status": false
+    },
+    {
+        "title": "Steels: Microstructure and Properties",
+        "author": "Harry Bhadeshia",
+        "year": 2017,
+        "genre": "Metallurgical Engineering",
+        "read_status": true
+    },
+    {
+        "title": "ASM Metals Handbook: Volume 1",
+        "author": "ASM International",
+        "year": 2010,
+        "genre": "Metallurgy Reference",
+        "read_status": false
+    },
+    {
+        "title": "physical metallurgy",
+        "author": "avner",
+        "year": 1997,
+        "genre": "metallurgy",
+        "read_status": false
+    }
+]
